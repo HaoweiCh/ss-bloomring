@@ -1,4 +1,4 @@
-module github.com/v2fly/ss-bloomring
+module github.com/haoweich/ss-bloomring
 
 go 1.15
 
